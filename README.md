@@ -1,4 +1,5 @@
 # Wavelet
+## CC-BY-SA 4.0
 Rotatable multimode filter based on MI "Ripples"
 
 ## ROTATABLE = Modules for 3u / 1u
